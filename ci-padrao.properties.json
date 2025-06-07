@@ -1,0 +1,7 @@
+{
+  "name": "CI Padrão",
+  "description": "Modelo de CI padrão para a organização.",
+  "iconName": "octicon-check",
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
+}
